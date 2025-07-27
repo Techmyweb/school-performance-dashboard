@@ -25,12 +25,6 @@ This Excel dashboard provides insights into student academic performance across 
 
 ---
 
-## 📊 Dashboard Preview
-
-![School Performance Dashboard](./School%20Performance%20dashboard%20gird.png)
-
----
-
 ## Insights
 
 - **Highest overall score**: STU039 with a score of **87.25**
@@ -43,10 +37,10 @@ This Excel dashboard provides insights into student academic performance across 
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `School Performance dashboard gird.png` — Dashboard image
-- `School_Performance_Dashboard.xlsx` — Excel file (if added)
+- `School_Performance_Dashboard.xlsx` — Excel file
 
 ---
 
